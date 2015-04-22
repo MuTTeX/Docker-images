@@ -1,0 +1,3 @@
+Using:
+
+sudo ln -s /path/to/your/mysite/mysite_uwsgi.ini /etc/uwsgi/vassals/
